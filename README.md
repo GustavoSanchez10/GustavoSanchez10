@@ -1,4 +1,4 @@
-<img src="Link aquí" width="100%" />
+[![Header](./bannergit.png)](https://github.com/GustavoSanchez10)
 ## Hi there 👋
 
 <!--
